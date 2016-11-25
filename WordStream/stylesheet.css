@@ -103,6 +103,9 @@ section p {
 section span {
   color: #007fb8;
 }
+.center {
+  text-align: center;
+}
 .demo {
   display: inline-block;
   margin-top: 20px;
